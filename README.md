@@ -25,7 +25,7 @@
 
 [![Minhas habilidades](https://skillicons.dev/icons?i=angular,eclipse,java,javascript,ts,jquery,css,html,nodejs,eclipse,py,vue,git,github,vscode,idea,spring,postman,netlify,postgres,mysql,mongodb,redis,supabase,aws,linux,redhat,debian,windows)](https://skillicons.dev)
 
-> _🚨☝️ Esse quam Videri
+> _🚨☝️ Esse Quam Videri
 
 
 <h3 align="left">Entre em contato comigo:</h3>
