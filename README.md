@@ -10,7 +10,7 @@
 <h3 align="center">TechLead e Desenvolvedor residente em Várzea Grande, MT / Brasil.</h3>
 
 <p align="center">
-  Profissional com sólida experiência em desenvolvimento (Java, SQL, PL/SQL) e implantação de soluções. Especialista em conduzir projetos de Go-Live, integrações via API, personalizações (ZK/Freedom) e otimização de processos de negócios para grandes clientes.
+  Profissional com sólida experiência em desenvolvimento (Java, SQL, PL/SQL) e implantação de soluções. Especialista em conduzir projetos de Go-Live, integrações via API, personalizações e desenvolvimento prototipado (ZK/Freedom/Genexus) e otimização de processos de negócios para grandes clientes.
 </p>
 
 <p align="center">
