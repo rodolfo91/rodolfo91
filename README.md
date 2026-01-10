@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">Olá 👋, Eu sou Rodolfo Felipe</h1>
-<h3 align="center">Consultor Senior e Desenvolvedor residente em Várzea Grande, Mato Grosso/Brasil.</h3>
+<h3 align="center">TechLead e Desenvolvedor residente em V. Grande, MT/ Brasil.</h3>
 <p align="center">Profissional com sólida experiência em desenvolvimento (Java, SQL, PL/SQL) e implantação de soluções. Especialista em conduzir projetos de Go-Live, integrações via API, personalizações (ZK/Freedom) e otimização de processos de negócios para grandes clientes.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolfo91B&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="rodolfo91" /> </p>
@@ -23,7 +23,7 @@
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=angular,eclipse,java,javascript,ts,jquery,css,html,nodejs,eclipse,py,vue,git,github,vscode,idea,spring,postman,netlify,postgres,mysql,mongodb,redis,supabase,aws,linux,redhat,debian,windows)](https://skillicons.dev)
+[![Minhas habilidades](https://skillicons.dev/icons?i=angular,eclipse,java,javascript,ts,jquery,css,html,nodejs,eclipse,py,vue,git,github,vscode,idea,spring,postman,netlify,postgres,mysql,mongodb,redis,supabase,aws,linux,redhat,debian,windows,shell)](https://skillicons.dev)
 
 > _🚨☝️ Esse Quam Videri
 
