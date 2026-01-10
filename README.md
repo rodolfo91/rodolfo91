@@ -23,7 +23,7 @@
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=angular,eclipse,java,javascript,ts,jquery,css,html,nodejs,eclipse,py,vue,git,github,vscode,idea,spring,postman,netlify,postgres,mysql,mongodb,redis,supabase,aws,linux,redhat,debian,windows)](https://skillicons.dev)
+[![Minhas habilidades](https://skillicons.dev/icons?i=angular,eclipse,java,javascript,ts,jquery,css,html,nodejs,eclipse,py,vue,git,github,vscode,idea,spring,postman,netlify,postgres,mysql,mongodb,redis,supabase,aws,linux,redhat,debian,windows,shell)](https://skillicons.dev)
 
 > _🚨☝️ Esse Quam Videri
 
