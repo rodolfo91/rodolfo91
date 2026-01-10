@@ -31,7 +31,7 @@
 
 <br>
 
-<h3 align="left">Linguagens e Ferramentas que domino:</h3>
+<h3 align="left">Hard Skills & Expertise:</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,js,ts,html,css,vue,nodejs,py,postgres,mysql,react,flutter,androidstudio,mongodb,redis,supabase,aws,linux,windows,git,github,vscode,idea,eclipse,postman,netlify&perline=14" alt="Tech Stack" />
