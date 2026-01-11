@@ -34,7 +34,7 @@
 <h3 align="left">Hard Skills & Expertise:</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,js,ts,html,css,vue,nodejs,py,postgres,mysql,react,flutter,androidstudio,mongodb,redis,supabase,aws,linux,windows,git,github,vscode,idea,eclipse,postman,netlify&perline=14" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,stackoverflow,angular,js,ts,htmx,html,css,vue,nodejs,regex,py,maven,nginx,firebase,postgres,mysql,react,flutter,androidstudio,apple,figma,mongodb,redis,supabase,aws,gcp,linux,azure,windows,powershell,git,github,kubernetes,docker,idea,eclipse,fastapi,postman,netlify,heroku&perline=14" alt="Tech Stack" />
 
 <br><br>
 <img src="https://img.shields.io/badge/Oracle-DC362E?style=for-the-badge&logo=oracl&logoColor=white" alt="Oracle" />
